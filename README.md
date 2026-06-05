@@ -150,3 +150,5 @@ Reconstructed using:
 
 *Analysis conducted as part of Nexora Connect Group 
 Pricing Officer practical assessment.*
+
+![Nexora Connect CPaaS Dashboard](Nexora_Connect_Dashboard.png)
