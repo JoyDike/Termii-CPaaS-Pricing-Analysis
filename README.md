@@ -1,11 +1,11 @@
-# Termii CPaaS Pricing Analysis
+# Nexora Connect CPaaS Pricing Analysis
 **Tools:** Excel | SQL Server | Power BI | Word  
 **Type:** End-to-End Pricing Analysis  
 **Dataset:** Q1 2025 (January - March 2025)
 
 ## Project Overview
 Conducted a comprehensive pricing performance 
-analysis for Termii Group — Africa's leading 
+analysis for Nexora Connect — Africa's leading 
 CPaaS provider processing over 1 billion 
 transactions annually across 20,000+ businesses.
 
@@ -16,7 +16,7 @@ The analysis covered four key areas:
 - Strategic pricing recommendation memo
 
 ## Business Context
-Termii operates a margin-sensitive model — 
+Nexora Connect operates a margin-sensitive model — 
 purchasing message delivery capacity from 
 carriers at wholesale rates and selling to 
 Enterprise, SME and Startup clients at retail 
@@ -148,5 +148,5 @@ Reconstructed using:
 - Reconstructed missing pricing catalogue
 - Built executive ready interactive dashboard
 
-*Analysis conducted as part of Termii Group 
+*Analysis conducted as part of Nexora Connect Group 
 Pricing Officer practical assessment.*
